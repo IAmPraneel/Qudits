@@ -6,7 +6,7 @@ As I learn from 'Introduction to Quantum Computing: From a Layperson to a Progra
 
 I believe implementation of qudits is more viable using photonic quantum computing given the beautiful similarities between wave nature of light and quantum computing.
 
-## Latest Update: Completed first 7 chapters (till Pauli Spin Matrices, Adjoint Matrix, and Hermitian Matrix)
+## Latest Update: Completed first 8 chapters (first 10 chapters are just the prereq math with quantum flavour)
 
 
 ## Log:
