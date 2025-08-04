@@ -6,14 +6,14 @@ As I learn from 'Introduction to Quantum Computing: From a Layperson to a Progra
 
 I believe implementation of qudits is more viable using photonic quantum computing given the beautiful similarities between wave nature of light and quantum computing.
 
-## Latest Update: Completed first 8 chapters (first 10 chapters are just the prereq math with quantum flavour)
+## Latest Update: Completed first 10 chapters in 6 days (first 10 chapters are just the prereq math with quantum flavour).
 
 
 ## Log:
-- Currently implementing GPU acceleration using torch, but plan to eventually shift to native GPU backend.
-
+-  Implemented foundational mathematics from the book using python.
 
 ## Long term goals:
+- Currently implementing GPU acceleration using torch, but plan to eventually shift to native GPU backend.
 - Integrade Quantum Machine Learning Models (reference QML by Peter Wittek)
 - Integrate photonics to enable photonic quantum computing for qudits (reference strawberryfields by PennyLane)
 - Include Neuromorphic Computing Models (reference snntorch)
