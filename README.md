@@ -10,7 +10,7 @@ I believe implementation of qudits is more viable using photonic quantum computi
 
 
 ## Log:
--  Implemented foundational mathematics from the book using python.
+-  Implemented mathematical operations from the first 10 chapters of the book using python.
 
 ## Long term goals:
 - Currently implementing GPU acceleration using torch, but plan to eventually shift to native GPU backend.
