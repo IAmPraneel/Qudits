@@ -6,7 +6,7 @@ As I learn from 'Introduction to Quantum Computing: From a Layperson to a Progra
 
 I believe implementation of qudits is more viable using photonic quantum computing given the beautiful similarities between wave nature of light and quantum computing.
 
-## Latest Update: Completed first 10 chapters in 6 days (first 10 chapters are just the prereq math with quantum flavour).
+## Latest Update: Completed first 12 chapters in 8 days (first 12 chapters are part 1 and just the prereq math with quantum flavour, part 2 is quantum computing).
 
 
 ## Log:
