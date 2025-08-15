@@ -18,6 +18,7 @@ I believe implementation of qudits is more viable using photonic quantum computi
 - Integrade Quantum Machine Learning Models (reference QML by Peter Wittek)
 - Integrate photonics to enable photonic quantum computing for qudits (reference strawberryfields by PennyLane)
 - Include Neuromorphic Computing Models (reference snntorch)
+- Include finance specific applications such as those in qiskit finance.
 
   
 - Integrate all to create a Neuromorphic Photonic Quantum Machine Learning Library, supporting (or maybe needing) qudits ?
