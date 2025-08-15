@@ -6,15 +6,23 @@ As I learn from 'Introduction to Quantum Computing: From a Layperson to a Progra
 
 I believe implementation of qudits is more viable using photonic quantum computing given the beautiful similarities between wave nature of light and quantum computing.
 
-## Latest Update: Completed first 15 chapters (first 12 chapters are part 1 and just the prereq math with quantum flavour, part 2 is quantum computing).
+## Latest Update: Completed first 20 chapters (first 12 chapters are part 1 and just the prereq math with quantum flavour, part 2 is quantum computing).
 
+## Current Objective:
+### Phase 1:
+- To be able to define d-dimensional generalized qudits and create corresponding hilbert space.
+- To be able to implement generalized gates (primary gates and other possible combinations).
+- To be able to implement a qudit circuit. 
 
 ## Log:
 -  Implemented mathematical operations from the first 10 chapters of the book using python.
+
+## Questions:
 -  Can we Parallelize Grover's algorithm using photonic high dimensional Qudits to reach the lower bound and speed up each pass ? (using frequency encoding)
 
 ## Long term goals:
 - Currently implementing GPU acceleration using torch, but plan to eventually shift to native GPU backend.
+- Add noise simulation.
 - Integrade Quantum Machine Learning Models (reference QML by Peter Wittek)
 - Integrate photonics to enable photonic quantum computing for qudits (reference strawberryfields by PennyLane)
 - Include Neuromorphic Computing Models (reference snntorch)
