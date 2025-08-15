@@ -18,7 +18,7 @@ I believe implementation of qudits is more viable using photonic quantum computi
 -  Implemented mathematical operations from the first 10 chapters of the book using python.
 
 ## Questions:
--  Can we Parallelize Grover's algorithm using photonic high dimensional Qudits to reach the lower bound and speed up each pass ? (using frequency encoding)
+-  Can we Parallelize Grover's algorithm using photonic high dimensional Qudits to reach the lower bound and speed up each pass using photonics? (using frequency encoding)
 
 ## Long term goals:
 - Currently implementing GPU acceleration using torch, but plan to eventually shift to native GPU backend.
