@@ -33,3 +33,41 @@ I believe implementation of qudits is more viable using photonic quantum computi
 
 ## Licensing:
 I do plan to eventually license it, but thats on the horizon for now.
+
+Possible file structure (for personal reference):
+```
+qudit_sim/
+├── qudit_sim/
+│   ├── __init__.py
+│   ├── gates/
+│   │   ├── __init__.py
+│   │   ├── base.py
+│   │   ├── x_gate.py
+│   │   └── custom_gates.py
+│   ├── circuits/
+│   │   ├── __init__.py
+│   │   ├── circuit.py
+│   │   └── builder.py
+│   ├── states/
+│   │   ├── __init__.py
+│   │   └── statevector.py
+│   ├── simulators/
+│   │   ├── __init__.py
+│   │   ├── backend.py
+│   │   └── statevector_simulator.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── math_utils.py
+│   │   └── decorators.py
+│   └── config.py
+├── tests/
+│   ├── test_circuits.py
+│   ├── test_gates.py
+│   └── ...
+├── examples/
+│   └── teleportation_qudit.py
+├── README.md
+├── pyproject.toml
+└── setup.cfg
+
+```
