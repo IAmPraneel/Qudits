@@ -8,6 +8,11 @@ I believe implementation of qudits is more viable using photonic quantum computi
 
 ## Latest Update: Completed Utils/Aux module and started gates module (implemented X,H,Z gate for qudits, multi control gates and Toffoli gates next up)
 
+Recent literature referenced:
+- [✅] https://arxiv.org/pdf/2410.05122  GENERALISED QUANTUM GATES FOR QUDITS AND THEIR APPLICATION IN QUANTUM FOURIER TRANSFORM 
+- [   ] https://arxiv.org/pdf/2303.12979 Optimal Synthesis of Multi-Controlled Qudit Gates 
+- [   ] https://arxiv.org/pdf/0806.0654  Efficient Toffoli Gates Using Qudits
+
 ## Current Objective:
 ### Phase 1:
 - To be able to define d-dimensional generalized qudits and create corresponding hilbert space.
