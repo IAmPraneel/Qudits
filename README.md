@@ -4,6 +4,7 @@ A simulation library for quantum computing using qudits {n-dimensional qubits (q
 
 The idea sparked from 'Introduction to Quantum Computing: From a Layperson to a Programmer in 30 Steps' by Hiu Yung Wong, and now that I've started with the implementation I am referring to further research papers. 
 
+Note: Work on this project has currently been paused due to other commitments.
 
 ## Latest Update: Completed Utils/Aux module and started gates module (implemented X,H,Z gate for qudits, multi control gates and Toffoli gates next)
 
